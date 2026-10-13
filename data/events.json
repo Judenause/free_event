@@ -1,4 +1,185 @@
 {
-  "updated_at": null,
-  "events": []
+  "updated_at": "2026-10-13T13:43:45+09:00",
+  "events": [
+    {
+      "id": "heart-of-beast-yongsan-20261021",
+      "title": "하트 오브 비스트 시사회",
+      "genre": "영화",
+      "region": "서울",
+      "venue": "CGV 용산아이파크몰",
+      "starts_at": "2026-10-21T19:30:00+09:00",
+      "deadline": "2026-10-15T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-10T00:00:00+09:00",
+      "checked_at": "2026-10-13T13:43:45+09:00",
+      "sources": [
+        {
+          "name": "뽐뿌",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=event_ppomppu&no=1062"
+        }
+      ],
+      "description": "30명 추첨, 1인 2석(총 60석). 예고편 감상 후 기대평 댓글로 응모. 10/16 발표 및 개별 안내. 12세 이상. 좌석 선택·양도·판매·대리 수령 불가. 더쿠 응모처는 10/11 마감되어 제외했습니다."
+    },
+    {
+      "id": "you-like-a-star-worldtower-20261023",
+      "title": "그대, 별처럼 시사회",
+      "genre": "영화",
+      "region": "서울",
+      "venue": "롯데시네마 월드타워",
+      "starts_at": "2026-10-23T19:00:00+09:00",
+      "deadline": "2026-10-19T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-13T00:00:00+09:00",
+      "checked_at": "2026-10-13T13:43:45+09:00",
+      "sources": [
+        {
+          "name": "씨네21",
+          "url": "https://cine21.com/event/view/?event_no=8725"
+        }
+      ],
+      "description": "20명 추첨, 1인 2석(총 40석). 메인 예고편 감상 후 기대평 댓글 작성. 10/20 12:00 발표. 15세 이상. 좌석 선택·교환 및 티켓 양도·재판매 불가."
+    },
+    {
+      "id": "kkokdugak-cecil-20261027",
+      "title": "꼭두각, 시간놀음",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "국립정동극장 세실",
+      "starts_at": "2026-10-27T19:30:00+09:00",
+      "deadline": "2026-10-21T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 40000,
+      "discovered_at": "2026-10-13T00:00:00+09:00",
+      "checked_at": "2026-10-13T13:43:45+09:00",
+      "sources": [
+        {
+          "name": "씨네21",
+          "url": "https://cine21.com/event/view/?event_no=8724"
+        }
+      ],
+      "description": "초대 회차는 10/27(화) 19:30입니다. 10명 추첨, 1인 2매(총 20매). 10/22 12:00 발표. 공연 70분, 12세 이상. 전석 정상가 20,000원. 이전 대화에서 미확인이었던 회차·매수를 공식 이벤트 이미지로 재확인했습니다."
+    },
+    {
+      "id": "soorim-gwiryu-20261105",
+      "title": "수림뉴웨이브 2026 – 이나연 ‘귀류 歸流’",
+      "genre": "국악",
+      "region": "서울",
+      "venue": "김희수아트센터 SPACE 1",
+      "starts_at": "2026-11-05T19:30:00+09:00",
+      "deadline": "2026-10-28T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 60000,
+      "discovered_at": "2026-10-12T00:00:00+09:00",
+      "checked_at": "2026-10-13T13:43:45+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=397464"
+        }
+      ],
+      "description": "10쌍 초대, 1인 2매(총 20석). 문화포털에서 기대평 작성 후 회차 선택·응모하기. 10/29 발표. 공연 75분, 만 7세 이상. 정상가 1인 30,000원."
+    },
+    {
+      "id": "changgeuk-writers-20261108",
+      "title": "2026 창극 작가 프로젝트 시연회",
+      "genre": "국악",
+      "region": "서울",
+      "venue": "국립극장 하늘극장",
+      "starts_at": "2026-11-08T15:00:00+09:00",
+      "deadline": "2026-10-29T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 40000,
+      "discovered_at": "2026-10-11T00:00:00+09:00",
+      "checked_at": "2026-10-13T13:43:45+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=401013"
+        }
+      ],
+      "description": "11/8(일) 15:00 회차 5쌍 초대, 1인 2매(총 10석). 문화포털에서 기대평 작성 후 회차 선택·응모하기. 10/30 발표. 공연 135분(휴식 15분 포함), 초등학생 이상. 정상가 1인 20,000원."
+    },
+    {
+      "id": "obaek-jtn-20261022",
+      "title": "오백에 삼십",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "대학로 JTN아트홀 3관",
+      "starts_at": "2026-10-22T17:00:00+09:00",
+      "deadline": "2026-10-18T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-10T00:00:00+09:00",
+      "checked_at": "2026-10-13T13:43:45+09:00",
+      "sources": [
+        {
+          "name": "씨네21",
+          "url": "https://cine21.com/event/view/?event_no=8723"
+        }
+      ],
+      "description": "10/22 17:00 초대 회차. 회차당 5명 추첨, 1인 2매. 10/19 12:00 발표. 응모 시 원하는 회차를 선택하세요. 당첨된 회차로만 관람 가능하며 회차 변경·양도 불가, 신청자 본인 포함 관람. 2매 조건을 공식 이벤트 이미지로 재확인했습니다."
+    },
+    {
+      "id": "obaek-jtn-20261023",
+      "title": "오백에 삼십",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "대학로 JTN아트홀 3관",
+      "starts_at": "2026-10-23T17:00:00+09:00",
+      "deadline": "2026-10-18T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-10T00:00:00+09:00",
+      "checked_at": "2026-10-13T13:43:45+09:00",
+      "sources": [
+        {
+          "name": "씨네21",
+          "url": "https://cine21.com/event/view/?event_no=8723"
+        }
+      ],
+      "description": "10/23 17:00 초대 회차. 회차당 5명 추첨, 1인 2매. 10/19 12:00 발표. 응모 시 원하는 회차를 선택하세요. 당첨된 회차로만 관람 가능하며 회차 변경·양도 불가, 신청자 본인 포함 관람. 2매 조건을 공식 이벤트 이미지로 재확인했습니다."
+    },
+    {
+      "id": "obaek-jtn-20261027",
+      "title": "오백에 삼십",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "대학로 JTN아트홀 3관",
+      "starts_at": "2026-10-27T17:00:00+09:00",
+      "deadline": "2026-10-18T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-10T00:00:00+09:00",
+      "checked_at": "2026-10-13T13:43:45+09:00",
+      "sources": [
+        {
+          "name": "씨네21",
+          "url": "https://cine21.com/event/view/?event_no=8723"
+        }
+      ],
+      "description": "10/27 17:00 초대 회차. 회차당 5명 추첨, 1인 2매. 10/19 12:00 발표. 응모 시 원하는 회차를 선택하세요. 당첨된 회차로만 관람 가능하며 회차 변경·양도 불가, 신청자 본인 포함 관람. 2매 조건을 공식 이벤트 이미지로 재확인했습니다."
+    },
+    {
+      "id": "obaek-jtn-20261028",
+      "title": "오백에 삼십",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "대학로 JTN아트홀 3관",
+      "starts_at": "2026-10-28T17:00:00+09:00",
+      "deadline": "2026-10-18T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-10T00:00:00+09:00",
+      "checked_at": "2026-10-13T13:43:45+09:00",
+      "sources": [
+        {
+          "name": "씨네21",
+          "url": "https://cine21.com/event/view/?event_no=8723"
+        }
+      ],
+      "description": "10/28 17:00 초대 회차. 회차당 5명 추첨, 1인 2매. 10/19 12:00 발표. 응모 시 원하는 회차를 선택하세요. 당첨된 회차로만 관람 가능하며 회차 변경·양도 불가, 신청자 본인 포함 관람. 2매 조건을 공식 이벤트 이미지로 재확인했습니다."
+    }
+  ]
 }
