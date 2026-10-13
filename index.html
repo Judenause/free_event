@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="서울·경기 무료 공연과 영화 시사회 초대 정보를 한곳에서 확인하세요.">
+  <title>무료공연 레이더</title>
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/app.js" defer></script>
+</head>
+<body>
+  <header><a class="brand" href="./">◉ 무료공연 레이더</a><span>SEOUL & GYEONGGI</span></header>
+  <main>
+    <section class="hero"><p class="eyebrow">좋은 하루를 발견하는 방법</p><h1>오늘의 초대,<br>놓치지 마세요.</h1><p>무료 공연부터 영화 시사회까지.<br>관심 있는 초대를 찾고 응모해 보세요.</p><p id="updated" class="muted">최근 확인일을 불러오는 중…</p></section>
+    <section class="controls" aria-label="이벤트 필터">
+      <label class="search">검색<input id="search" type="search" placeholder="공연명, 장소, 키워드"></label>
+      <label>장르<select id="genre"><option value="">전체 장르</option><option>영화</option><option>연극</option><option>뮤지컬</option><option>클래식</option><option>국악</option><option>기타</option></select></label>
+      <label>지역<select id="region"><option value="">전체 지역</option><option>서울</option><option>수원</option><option>용인</option><option>성남</option><option>화성</option><option>기타</option></select></label>
+      <label>정렬<select id="sort"><option value="deadline">마감 임박순</option><option value="starts_at">공연일순</option><option value="value_for_two">2매 가치순</option><option value="discovered_at">신규순</option></select></label>
+      <div class="checks"><label><input id="two" type="checkbox"> 1인 2매</label><label><input id="new" type="checkbox"> 최근 24시간 신규</label><label><input id="hide" type="checkbox"> 응모완료 숨기기</label></div>
+    </section>
+    <div class="list-heading"><h2>열려 있는 초대</h2><span id="count" aria-live="polite"></span></div>
+    <p id="storage-warning" class="notice" hidden>브라우저 저장을 사용할 수 없어 응모 체크가 이 화면에서만 유지됩니다.</p>
+    <div id="events" class="grid" aria-live="polite"><p class="empty">초대 정보를 불러오는 중입니다.</p></div>
+    <noscript>목록을 보려면 JavaScript를 활성화해 주세요.</noscript>
+  </main>
+  <footer>응모 조건과 일정은 원문에서 최종 확인하세요. 응모완료 표시는 이 브라우저에 저장됩니다.</footer>
+</body>
+</html>

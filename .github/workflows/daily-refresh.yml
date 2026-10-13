@@ -1,0 +1,64 @@
+name: Daily refresh and Pages deploy
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 23 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: radar-pages
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Validate and test
+        run: |
+          python scripts/validate_events.py
+          python -m unittest discover -s tests
+          node --check assets/app.js
+      - name: Remove expired applications
+        run: |
+          python scripts/cleanup.py
+          python scripts/validate_events.py
+      - name: Commit changed data
+        run: |
+          if ! git diff --quiet -- data/events.json; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add data/events.json
+            git commit -m 'Remove expired event applications'
+            git push
+          fi
+      - name: Stage public site only
+        run: |
+          mkdir -p _site/assets _site/data
+          cp index.html _site/
+          cp assets/style.css assets/app.js _site/assets/
+          cp data/events.json _site/data/
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+  deploy:
+    needs: refresh
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
