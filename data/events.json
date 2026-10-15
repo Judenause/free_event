@@ -182,26 +182,6 @@
       "description": "10/28 17:00 초대 회차. 회차당 5명 추첨, 1인 2매. 10/19 12:00 발표. 응모 시 원하는 회차를 선택하세요. 당첨된 회차로만 관람 가능하며 회차 변경·양도 불가, 신청자 본인 포함 관람. 2매 조건을 공식 이벤트 이미지로 재확인했습니다."
     },
     {
-      "id": "soorim-kim-hyoyoung-20261022",
-      "title": "수림뉴웨이브 2026 – 김효영 ‘비껴선 시선’",
-      "genre": "국악",
-      "region": "서울",
-      "venue": "김희수아트센터 SPACE 1",
-      "starts_at": "2026-10-22T19:30:00+09:00",
-      "deadline": "2026-10-14T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 60000,
-      "discovered_at": "2026-10-14T08:04:30+09:00",
-      "checked_at": "2026-10-14T08:04:30+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=397462"
-        }
-      ],
-      "description": "10쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 초대 회차를 선택해 응모. 10/15 발표. 만 7세 이상, 75분. 정상가 1인 30,000원."
-    },
-    {
       "id": "soorim-lee-hwayoung-20261029",
       "title": "수림뉴웨이브 2026 – 이화영 ‘化寧; 편안하게 되리라’",
       "genre": "국악",
