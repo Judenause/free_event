@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T08:04:30+09:00",
+  "updated_at": "2026-10-18T20:56:57+09:00",
   "events": [
     {
       "id": "you-like-a-star-worldtower-20261023",
@@ -12,7 +12,7 @@
       "tickets_per_person": 2,
       "value_for_two": null,
       "discovered_at": "2026-10-13T00:00:00+09:00",
-      "checked_at": "2026-10-14T08:04:30+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
       "sources": [
         {
           "name": "씨네21",
@@ -32,7 +32,7 @@
       "tickets_per_person": 2,
       "value_for_two": 40000,
       "discovered_at": "2026-10-13T00:00:00+09:00",
-      "checked_at": "2026-10-14T08:04:30+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
       "sources": [
         {
           "name": "씨네21",
@@ -52,7 +52,7 @@
       "tickets_per_person": 2,
       "value_for_two": 60000,
       "discovered_at": "2026-10-12T00:00:00+09:00",
-      "checked_at": "2026-10-14T08:04:30+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
       "sources": [
         {
           "name": "문화포털",
@@ -92,7 +92,7 @@
       "tickets_per_person": 2,
       "value_for_two": null,
       "discovered_at": "2026-10-10T00:00:00+09:00",
-      "checked_at": "2026-10-14T08:04:30+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
       "sources": [
         {
           "name": "씨네21",
@@ -112,7 +112,7 @@
       "tickets_per_person": 2,
       "value_for_two": null,
       "discovered_at": "2026-10-10T00:00:00+09:00",
-      "checked_at": "2026-10-14T08:04:30+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
       "sources": [
         {
           "name": "씨네21",
@@ -132,7 +132,7 @@
       "tickets_per_person": 2,
       "value_for_two": null,
       "discovered_at": "2026-10-10T00:00:00+09:00",
-      "checked_at": "2026-10-14T08:04:30+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
       "sources": [
         {
           "name": "씨네21",
@@ -152,7 +152,7 @@
       "tickets_per_person": 2,
       "value_for_two": null,
       "discovered_at": "2026-10-10T00:00:00+09:00",
-      "checked_at": "2026-10-14T08:04:30+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
       "sources": [
         {
           "name": "씨네21",
@@ -172,7 +172,7 @@
       "tickets_per_person": 2,
       "value_for_two": 60000,
       "discovered_at": "2026-10-14T08:04:30+09:00",
-      "checked_at": "2026-10-14T08:04:30+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
       "sources": [
         {
           "name": "문화포털",
@@ -192,7 +192,7 @@
       "tickets_per_person": 2,
       "value_for_two": null,
       "discovered_at": "2026-10-14T08:04:30+09:00",
-      "checked_at": "2026-10-14T08:04:30+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
       "sources": [
         {
           "name": "문화포털",
@@ -212,7 +212,7 @@
       "tickets_per_person": 2,
       "value_for_two": 132000,
       "discovered_at": "2026-10-14T08:04:30+09:00",
-      "checked_at": "2026-10-14T08:04:30+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
       "sources": [
         {
           "name": "문화포털",
@@ -232,7 +232,7 @@
       "tickets_per_person": 2,
       "value_for_two": 132000,
       "discovered_at": "2026-10-14T08:04:30+09:00",
-      "checked_at": "2026-10-14T08:04:30+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
       "sources": [
         {
           "name": "문화포털",
@@ -252,7 +252,7 @@
       "tickets_per_person": 2,
       "value_for_two": 40000,
       "discovered_at": "2026-10-14T08:04:30+09:00",
-      "checked_at": "2026-10-14T08:04:30+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
       "sources": [
         {
           "name": "문화포털",
@@ -260,6 +260,226 @@
         }
       ],
       "description": "문화포털의 별도 초대 회차로 10/26 19:30 공연입니다. 10쌍 추첨, 1인 2매. 기대평 작성 후 회차 선택·응모. 10/19 발표. 씨네21의 10/27 회차와 날짜가 다릅니다. 관람등급·러닝타임은 출처별 안내가 달라 응모 전 원문을 확인하세요."
+    },
+    {
+      "id": "eojjeoda-shabondi-20261119",
+      "title": "어쩌다 보니",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "샤봉디씨어터",
+      "starts_at": "2026-11-19T16:30:00+09:00",
+      "deadline": "2026-11-11T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 100000,
+      "discovered_at": "2026-10-18T20:56:57+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=388545"
+        }
+      ],
+      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 만 13세 이상, 약 100분. 11/12 당첨 발표."
+    },
+    {
+      "id": "eojjeoda-shabondi-20261120",
+      "title": "어쩌다 보니",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "샤봉디씨어터",
+      "starts_at": "2026-11-20T16:30:00+09:00",
+      "deadline": "2026-11-11T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 100000,
+      "discovered_at": "2026-10-18T20:56:57+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=388545"
+        }
+      ],
+      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 만 13세 이상, 약 100분. 11/12 당첨 발표."
+    },
+    {
+      "id": "eojjeoda-shabondi-20261121",
+      "title": "어쩌다 보니",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "샤봉디씨어터",
+      "starts_at": "2026-11-21T16:30:00+09:00",
+      "deadline": "2026-11-11T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 100000,
+      "discovered_at": "2026-10-18T20:56:57+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=388545"
+        }
+      ],
+      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 만 13세 이상, 약 100분. 11/12 당첨 발표."
+    },
+    {
+      "id": "eojjeoda-shabondi-20261122",
+      "title": "어쩌다 보니",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "샤봉디씨어터",
+      "starts_at": "2026-11-22T16:30:00+09:00",
+      "deadline": "2026-11-11T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 100000,
+      "discovered_at": "2026-10-18T20:56:57+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=388545"
+        }
+      ],
+      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 만 13세 이상, 약 100분. 11/12 당첨 발표."
+    },
+    {
+      "id": "scar-hongdae-20261113",
+      "title": "흉터",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "홍대 씨어터 윤",
+      "starts_at": "2026-11-13T19:30:00+09:00",
+      "deadline": "2026-11-02T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 70000,
+      "discovered_at": "2026-10-18T20:56:57+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=401660"
+        }
+      ],
+      "description": "이 회차 3쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 14세 이상, 약 90분. 11/3 당첨 발표."
+    },
+    {
+      "id": "scar-hongdae-20261114",
+      "title": "흉터",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "홍대 씨어터 윤",
+      "starts_at": "2026-11-14T17:00:00+09:00",
+      "deadline": "2026-11-02T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 70000,
+      "discovered_at": "2026-10-18T20:56:57+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=401660"
+        }
+      ],
+      "description": "이 회차 3쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 14세 이상, 약 90분. 11/3 당첨 발표."
+    },
+    {
+      "id": "scar-hongdae-20261115",
+      "title": "흉터",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "홍대 씨어터 윤",
+      "starts_at": "2026-11-15T17:00:00+09:00",
+      "deadline": "2026-11-02T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 70000,
+      "discovered_at": "2026-10-18T20:56:57+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=401660"
+        }
+      ],
+      "description": "이 회차 3쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 14세 이상, 약 90분. 11/3 당첨 발표."
+    },
+    {
+      "id": "obaek-jtn-20261110",
+      "title": "오백에 삼십",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "대학로 JTN아트홀 3관",
+      "starts_at": "2026-11-10T17:00:00+09:00",
+      "deadline": "2026-11-02T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 100000,
+      "discovered_at": "2026-10-18T20:56:57+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=393376"
+        }
+      ],
+      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 14세 이상, 약 100분. 11/3 당첨 발표. 기존 씨네21 10월 회차와 다른 문화포털 11월 초대입니다."
+    },
+    {
+      "id": "obaek-jtn-20261111",
+      "title": "오백에 삼십",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "대학로 JTN아트홀 3관",
+      "starts_at": "2026-11-11T17:00:00+09:00",
+      "deadline": "2026-11-02T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 100000,
+      "discovered_at": "2026-10-18T20:56:57+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=393376"
+        }
+      ],
+      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 14세 이상, 약 100분. 11/3 당첨 발표. 기존 씨네21 10월 회차와 다른 문화포털 11월 초대입니다."
+    },
+    {
+      "id": "obaek-jtn-20261117",
+      "title": "오백에 삼십",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "대학로 JTN아트홀 3관",
+      "starts_at": "2026-11-17T17:00:00+09:00",
+      "deadline": "2026-11-02T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 100000,
+      "discovered_at": "2026-10-18T20:56:57+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=393376"
+        }
+      ],
+      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 14세 이상, 약 100분. 11/3 당첨 발표. 기존 씨네21 10월 회차와 다른 문화포털 11월 초대입니다."
+    },
+    {
+      "id": "obaek-jtn-20261118",
+      "title": "오백에 삼십",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "대학로 JTN아트홀 3관",
+      "starts_at": "2026-11-18T17:00:00+09:00",
+      "deadline": "2026-11-02T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 100000,
+      "discovered_at": "2026-10-18T20:56:57+09:00",
+      "checked_at": "2026-10-18T20:56:57+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=393376"
+        }
+      ],
+      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 14세 이상, 약 100분. 11/3 당첨 발표. 기존 씨네21 10월 회차와 다른 문화포털 11월 초대입니다."
     }
   ]
 }
