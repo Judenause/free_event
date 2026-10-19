@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-10-19T07:59:06+09:00",
+  "updated_at": "2026-10-20T08:05:16+09:00",
   "events": [
-    {
-      "id": "you-like-a-star-worldtower-20261023",
-      "title": "그대, 별처럼 시사회",
-      "genre": "영화",
-      "region": "서울",
-      "venue": "롯데시네마 월드타워",
-      "starts_at": "2026-10-23T19:00:00+09:00",
-      "deadline": "2026-10-19T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": null,
-      "discovered_at": "2026-10-13T00:00:00+09:00",
-      "checked_at": "2026-10-19T07:59:06+09:00",
-      "sources": [
-        {
-          "name": "씨네21",
-          "url": "https://cine21.com/event/view/?event_no=8725"
-        }
-      ],
-      "description": "20명 추첨, 1인 2석(총 40석). 메인 예고편 감상 후 기대평 댓글 작성. 10/20 12:00 발표. 15세 이상. 좌석 선택·교환 및 티켓 양도·재판매 불가."
-    },
     {
       "id": "kkokdugak-cecil-20261027",
       "title": "꼭두각, 시간놀음",
@@ -32,7 +12,7 @@
       "tickets_per_person": 2,
       "value_for_two": 40000,
       "discovered_at": "2026-10-13T00:00:00+09:00",
-      "checked_at": "2026-10-19T07:59:06+09:00",
+      "checked_at": "2026-10-20T08:05:16+09:00",
       "sources": [
         {
           "name": "씨네21",
@@ -92,7 +72,7 @@
       "tickets_per_person": 2,
       "value_for_two": 60000,
       "discovered_at": "2026-10-14T08:04:30+09:00",
-      "checked_at": "2026-10-19T07:59:06+09:00",
+      "checked_at": "2026-10-20T08:05:16+09:00",
       "sources": [
         {
           "name": "문화포털",
@@ -412,7 +392,7 @@
       "tickets_per_person": 2,
       "value_for_two": null,
       "discovered_at": "2026-10-19T07:59:06+09:00",
-      "checked_at": "2026-10-19T07:59:06+09:00",
+      "checked_at": "2026-10-20T08:05:16+09:00",
       "sources": [
         {
           "name": "씽유",
@@ -432,7 +412,7 @@
       "tickets_per_person": 2,
       "value_for_two": null,
       "discovered_at": "2026-10-19T07:59:06+09:00",
-      "checked_at": "2026-10-19T07:59:06+09:00",
+      "checked_at": "2026-10-20T08:05:16+09:00",
       "sources": [
         {
           "name": "씽유",
@@ -452,7 +432,7 @@
       "tickets_per_person": 2,
       "value_for_two": null,
       "discovered_at": "2026-10-19T07:59:06+09:00",
-      "checked_at": "2026-10-19T07:59:06+09:00",
+      "checked_at": "2026-10-20T08:05:16+09:00",
       "sources": [
         {
           "name": "씽유",
@@ -460,6 +440,106 @@
         }
       ],
       "description": "회차별 5명 추첨, 1인 2매. 작품의 결말을 예측해 응모. 10/21 발표. 14세 이상, 85분. 휴대폰번호 인증 필수이며 미인증 시 당첨에서 제외. 현장에서 신분증 확인 후 티켓 배부."
+    },
+    {
+      "id": "alter-ego-20261104",
+      "title": "알테르 에고",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "예스24 스테이지 3관",
+      "starts_at": "2026-11-04T20:00:00+09:00",
+      "deadline": "2026-10-27T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 132000,
+      "discovered_at": "2026-10-20T08:05:16+09:00",
+      "checked_at": "2026-10-20T08:05:16+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=392408"
+        }
+      ],
+      "description": "이 회차 7쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 원하는 초대 회차를 선택해 응모. 10/28 발표. 만 13세 이상, 80분. 정상가 1인 66,000원."
+    },
+    {
+      "id": "alter-ego-20261108",
+      "title": "알테르 에고",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "예스24 스테이지 3관",
+      "starts_at": "2026-11-08T18:00:00+09:00",
+      "deadline": "2026-10-27T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 132000,
+      "discovered_at": "2026-10-20T08:05:16+09:00",
+      "checked_at": "2026-10-20T08:05:16+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=392408"
+        }
+      ],
+      "description": "이 회차 7쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 원하는 초대 회차를 선택해 응모. 10/28 발표. 만 13세 이상, 80분. 정상가 1인 66,000원."
+    },
+    {
+      "id": "alter-ego-20261111",
+      "title": "알테르 에고",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "예스24 스테이지 3관",
+      "starts_at": "2026-11-11T20:00:00+09:00",
+      "deadline": "2026-10-27T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 132000,
+      "discovered_at": "2026-10-20T08:05:16+09:00",
+      "checked_at": "2026-10-20T08:05:16+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=392408"
+        }
+      ],
+      "description": "이 회차 7쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 원하는 초대 회차를 선택해 응모. 10/28 발표. 만 13세 이상, 80분. 정상가 1인 66,000원."
+    },
+    {
+      "id": "alter-ego-20261112",
+      "title": "알테르 에고",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "예스24 스테이지 3관",
+      "starts_at": "2026-11-12T20:00:00+09:00",
+      "deadline": "2026-10-27T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 132000,
+      "discovered_at": "2026-10-20T08:05:16+09:00",
+      "checked_at": "2026-10-20T08:05:16+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=392408"
+        }
+      ],
+      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 원하는 초대 회차를 선택해 응모. 10/28 발표. 만 13세 이상, 80분. 정상가 1인 66,000원."
+    },
+    {
+      "id": "alter-ego-20261115",
+      "title": "알테르 에고",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "예스24 스테이지 3관",
+      "starts_at": "2026-11-15T15:00:00+09:00",
+      "deadline": "2026-10-27T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 132000,
+      "discovered_at": "2026-10-20T08:05:16+09:00",
+      "checked_at": "2026-10-20T08:05:16+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=392408"
+        }
+      ],
+      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 원하는 초대 회차를 선택해 응모. 10/28 발표. 만 13세 이상, 80분. 정상가 1인 66,000원."
     }
   ]
 }
