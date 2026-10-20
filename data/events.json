@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T08:05:16+09:00",
+  "updated_at": "2026-10-21T08:01:49+09:00",
   "events": [
     {
       "id": "kkokdugak-cecil-20261027",
@@ -12,7 +12,7 @@
       "tickets_per_person": 2,
       "value_for_two": 40000,
       "discovered_at": "2026-10-13T00:00:00+09:00",
-      "checked_at": "2026-10-20T08:05:16+09:00",
+      "checked_at": "2026-10-21T08:01:49+09:00",
       "sources": [
         {
           "name": "씨네21",
@@ -72,7 +72,7 @@
       "tickets_per_person": 2,
       "value_for_two": 60000,
       "discovered_at": "2026-10-14T08:04:30+09:00",
-      "checked_at": "2026-10-20T08:05:16+09:00",
+      "checked_at": "2026-10-21T08:01:49+09:00",
       "sources": [
         {
           "name": "문화포털",
@@ -382,66 +382,6 @@
       "description": "이 회차 5쌍 추첨, 1인 2매. 기대평 작성 후 원하는 초대 회차 선택·응모. 10/29 발표. 12세 이상, 약 100분. 정상가 1인 50,000원."
     },
     {
-      "id": "melo-ninejin-20261025",
-      "title": "멜로에 차질",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "대학로 나인진홀 2관",
-      "starts_at": "2026-10-25T13:30:00+09:00",
-      "deadline": "2026-10-20T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": null,
-      "discovered_at": "2026-10-19T07:59:06+09:00",
-      "checked_at": "2026-10-20T08:05:16+09:00",
-      "sources": [
-        {
-          "name": "씽유",
-          "url": "https://thinkyou.co.kr/event/7373/"
-        }
-      ],
-      "description": "회차별 5명 추첨, 1인 2매. 작품의 결말을 예측해 응모. 10/21 발표. 14세 이상, 85분. 휴대폰번호 인증 필수이며 미인증 시 당첨에서 제외. 현장에서 신분증 확인 후 티켓 배부."
-    },
-    {
-      "id": "melo-ninejin-20261030",
-      "title": "멜로에 차질",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "대학로 나인진홀 2관",
-      "starts_at": "2026-10-30T15:00:00+09:00",
-      "deadline": "2026-10-20T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": null,
-      "discovered_at": "2026-10-19T07:59:06+09:00",
-      "checked_at": "2026-10-20T08:05:16+09:00",
-      "sources": [
-        {
-          "name": "씽유",
-          "url": "https://thinkyou.co.kr/event/7373/"
-        }
-      ],
-      "description": "회차별 5명 추첨, 1인 2매. 작품의 결말을 예측해 응모. 10/21 발표. 14세 이상, 85분. 휴대폰번호 인증 필수이며 미인증 시 당첨에서 제외. 현장에서 신분증 확인 후 티켓 배부."
-    },
-    {
-      "id": "melo-ninejin-20261031",
-      "title": "멜로에 차질",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "대학로 나인진홀 2관",
-      "starts_at": "2026-10-31T13:30:00+09:00",
-      "deadline": "2026-10-20T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": null,
-      "discovered_at": "2026-10-19T07:59:06+09:00",
-      "checked_at": "2026-10-20T08:05:16+09:00",
-      "sources": [
-        {
-          "name": "씽유",
-          "url": "https://thinkyou.co.kr/event/7373/"
-        }
-      ],
-      "description": "회차별 5명 추첨, 1인 2매. 작품의 결말을 예측해 응모. 10/21 발표. 14세 이상, 85분. 휴대폰번호 인증 필수이며 미인증 시 당첨에서 제외. 현장에서 신분증 확인 후 티켓 배부."
-    },
-    {
       "id": "alter-ego-20261104",
       "title": "알테르 에고",
       "genre": "연극",
@@ -540,6 +480,106 @@
         }
       ],
       "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 원하는 초대 회차를 선택해 응모. 10/28 발표. 만 13세 이상, 80분. 정상가 1인 66,000원."
+    },
+    {
+      "id": "hidden-puzzle-20261113",
+      "title": "히든퍼즐",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "컬쳐씨어터(구. 휴먼시어터)",
+      "starts_at": "2026-11-13T14:00:00+09:00",
+      "deadline": "2026-11-05T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 100000,
+      "discovered_at": "2026-10-21T08:01:49+09:00",
+      "checked_at": "2026-10-21T08:01:49+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=384395"
+        }
+      ],
+      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 원하는 초대 회차를 선택해 응모. 11/6 발표. 14세 이상, 약 80분. 정상가 1인 50,000원. 일반 공연시간과 다를 수 있으므로 초대 회차의 시간을 확인하세요."
+    },
+    {
+      "id": "hidden-puzzle-20261122",
+      "title": "히든퍼즐",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "컬쳐씨어터(구. 휴먼시어터)",
+      "starts_at": "2026-11-22T16:30:00+09:00",
+      "deadline": "2026-11-05T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 100000,
+      "discovered_at": "2026-10-21T08:01:49+09:00",
+      "checked_at": "2026-10-21T08:01:49+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=384395"
+        }
+      ],
+      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 원하는 초대 회차를 선택해 응모. 11/6 발표. 14세 이상, 약 80분. 정상가 1인 50,000원. 일반 공연시간과 다를 수 있으므로 초대 회차의 시간을 확인하세요."
+    },
+    {
+      "id": "eojjeoda-shabondi-20261110",
+      "title": "어쩌다 보니",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "샤봉디씨어터",
+      "starts_at": "2026-11-10T16:30:00+09:00",
+      "deadline": "2026-11-03T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-21T08:01:49+09:00",
+      "checked_at": "2026-10-21T08:01:49+09:00",
+      "sources": [
+        {
+          "name": "씨네21",
+          "url": "https://cine21.com/event/view/?event_no=8726"
+        }
+      ],
+      "description": "씨네21 별도 초대: 회차당 5명 추첨, 1인 2매. 11/5 12:00 발표. 응모 시 원하는 회차를 선택하세요. 기존 문화포털 11/19~22 회차와 날짜·응모 마감이 다릅니다. 공식 이벤트 이미지로 일정·장소·매수를 확인했습니다."
+    },
+    {
+      "id": "eojjeoda-shabondi-20261111",
+      "title": "어쩌다 보니",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "샤봉디씨어터",
+      "starts_at": "2026-11-11T16:30:00+09:00",
+      "deadline": "2026-11-03T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-21T08:01:49+09:00",
+      "checked_at": "2026-10-21T08:01:49+09:00",
+      "sources": [
+        {
+          "name": "씨네21",
+          "url": "https://cine21.com/event/view/?event_no=8726"
+        }
+      ],
+      "description": "씨네21 별도 초대: 회차당 5명 추첨, 1인 2매. 11/5 12:00 발표. 응모 시 원하는 회차를 선택하세요. 기존 문화포털 11/19~22 회차와 날짜·응모 마감이 다릅니다. 공식 이벤트 이미지로 일정·장소·매수를 확인했습니다."
+    },
+    {
+      "id": "eojjeoda-shabondi-20261112",
+      "title": "어쩌다 보니",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "샤봉디씨어터",
+      "starts_at": "2026-11-12T16:30:00+09:00",
+      "deadline": "2026-11-03T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-21T08:01:49+09:00",
+      "checked_at": "2026-10-21T08:01:49+09:00",
+      "sources": [
+        {
+          "name": "씨네21",
+          "url": "https://cine21.com/event/view/?event_no=8726"
+        }
+      ],
+      "description": "씨네21 별도 초대: 회차당 5명 추첨, 1인 2매. 11/5 12:00 발표. 응모 시 원하는 회차를 선택하세요. 기존 문화포털 11/19~22 회차와 날짜·응모 마감이 다릅니다. 공식 이벤트 이미지로 일정·장소·매수를 확인했습니다."
     }
   ]
 }
