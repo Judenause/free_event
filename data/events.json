@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:02:46+09:00",
+  "updated_at": "2026-10-23T08:00:57+09:00",
   "events": [
     {
       "id": "soorim-gwiryu-20261105",
@@ -452,7 +452,7 @@
       "tickets_per_person": 2,
       "value_for_two": 100000,
       "discovered_at": "2026-10-21T08:01:49+09:00",
-      "checked_at": "2026-10-21T08:01:49+09:00",
+      "checked_at": "2026-10-23T08:00:57+09:00",
       "sources": [
         {
           "name": "문화포털",
@@ -472,7 +472,7 @@
       "tickets_per_person": 2,
       "value_for_two": 100000,
       "discovered_at": "2026-10-21T08:01:49+09:00",
-      "checked_at": "2026-10-21T08:01:49+09:00",
+      "checked_at": "2026-10-23T08:00:57+09:00",
       "sources": [
         {
           "name": "문화포털",
@@ -552,7 +552,7 @@
       "tickets_per_person": 2,
       "value_for_two": null,
       "discovered_at": "2026-10-22T08:02:46+09:00",
-      "checked_at": "2026-10-22T08:02:46+09:00",
+      "checked_at": "2026-10-23T08:00:57+09:00",
       "sources": [
         {
           "name": "씨네21",
