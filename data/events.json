@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T08:01:55+09:00",
+  "updated_at": "2026-10-26T07:58:04+09:00",
   "events": [
     {
       "id": "soorim-gwiryu-20261105",
@@ -606,7 +606,7 @@
       "tickets_per_person": 2,
       "value_for_two": null,
       "discovered_at": "2026-10-25T08:01:55+09:00",
-      "checked_at": "2026-10-25T08:01:55+09:00",
+      "checked_at": "2026-10-26T07:58:04+09:00",
       "id": "final-interview-worldtower-20261029",
       "title": "최종면접 시사회",
       "genre": "영화",
