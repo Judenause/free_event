@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T08:01:15+09:00",
+  "updated_at": "2026-10-28T08:03:59+09:00",
   "events": [
     {
       "id": "soorim-gwiryu-20261105",
@@ -342,106 +342,6 @@
       "description": "이 회차 5쌍 추첨, 1인 2매. 기대평 작성 후 원하는 초대 회차 선택·응모. 10/29 발표. 12세 이상, 약 100분. 정상가 1인 50,000원."
     },
     {
-      "id": "alter-ego-20261104",
-      "title": "알테르 에고",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "예스24 스테이지 3관",
-      "starts_at": "2026-11-04T20:00:00+09:00",
-      "deadline": "2026-10-27T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 132000,
-      "discovered_at": "2026-10-20T08:05:16+09:00",
-      "checked_at": "2026-10-20T08:05:16+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=392408"
-        }
-      ],
-      "description": "이 회차 7쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 원하는 초대 회차를 선택해 응모. 10/28 발표. 만 13세 이상, 80분. 정상가 1인 66,000원."
-    },
-    {
-      "id": "alter-ego-20261108",
-      "title": "알테르 에고",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "예스24 스테이지 3관",
-      "starts_at": "2026-11-08T18:00:00+09:00",
-      "deadline": "2026-10-27T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 132000,
-      "discovered_at": "2026-10-20T08:05:16+09:00",
-      "checked_at": "2026-10-20T08:05:16+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=392408"
-        }
-      ],
-      "description": "이 회차 7쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 원하는 초대 회차를 선택해 응모. 10/28 발표. 만 13세 이상, 80분. 정상가 1인 66,000원."
-    },
-    {
-      "id": "alter-ego-20261111",
-      "title": "알테르 에고",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "예스24 스테이지 3관",
-      "starts_at": "2026-11-11T20:00:00+09:00",
-      "deadline": "2026-10-27T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 132000,
-      "discovered_at": "2026-10-20T08:05:16+09:00",
-      "checked_at": "2026-10-20T08:05:16+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=392408"
-        }
-      ],
-      "description": "이 회차 7쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 원하는 초대 회차를 선택해 응모. 10/28 발표. 만 13세 이상, 80분. 정상가 1인 66,000원."
-    },
-    {
-      "id": "alter-ego-20261112",
-      "title": "알테르 에고",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "예스24 스테이지 3관",
-      "starts_at": "2026-11-12T20:00:00+09:00",
-      "deadline": "2026-10-27T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 132000,
-      "discovered_at": "2026-10-20T08:05:16+09:00",
-      "checked_at": "2026-10-20T08:05:16+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=392408"
-        }
-      ],
-      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 원하는 초대 회차를 선택해 응모. 10/28 발표. 만 13세 이상, 80분. 정상가 1인 66,000원."
-    },
-    {
-      "id": "alter-ego-20261115",
-      "title": "알테르 에고",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "예스24 스테이지 3관",
-      "starts_at": "2026-11-15T15:00:00+09:00",
-      "deadline": "2026-10-27T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 132000,
-      "discovered_at": "2026-10-20T08:05:16+09:00",
-      "checked_at": "2026-10-20T08:05:16+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=392408"
-        }
-      ],
-      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 원하는 초대 회차를 선택해 응모. 10/28 발표. 만 13세 이상, 80분. 정상가 1인 66,000원."
-    },
-    {
       "id": "hidden-puzzle-20261113",
       "title": "히든퍼즐",
       "genre": "연극",
@@ -582,31 +482,11 @@
       "description": "10쌍 추첨, 1인 2매. 기대평 작성 후 회차 선택·응모. 11/9 발표. 16세 이상(2010년 12월 31일 출생자까지), 약 110분. 정상가 1인 20,000원."
     },
     {
-      "id": "fall2-yongsan-20261030",
-      "title": "폴2: 데드포인트 시사회",
-      "genre": "영화",
-      "region": "서울",
-      "venue": "CGV 용산아이파크몰",
-      "starts_at": "2026-10-30T19:30:00+09:00",
-      "deadline": "2026-10-27T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": null,
-      "discovered_at": "2026-10-24T07:56:41+09:00",
-      "checked_at": "2026-10-25T08:01:55+09:00",
-      "sources": [
-        {
-          "name": "씨네21",
-          "url": "https://cine21.com/event/view/?event_no=8728"
-        }
-      ],
-      "description": "10명 추첨, 1인 2석. 씨네21에서 응모, 10/28 12:00 발표. 고성방가 시사회: 현장 스케치 촬영 및 데시벨 측정이 진행되며 사진·영상에 얼굴·목소리가 노출될 수 있습니다. 소음을 원치 않으면 지급 귀마개를 착용하세요."
-    },
-    {
       "region": "서울",
       "tickets_per_person": 2,
       "value_for_two": null,
       "discovered_at": "2026-10-25T08:01:55+09:00",
-      "checked_at": "2026-10-25T08:01:55+09:00",
+      "checked_at": "2026-10-28T08:03:59+09:00",
       "id": "nature-forgetting-sejong-20261111",
       "title": "네이처 오브 포겟팅",
       "genre": "연극",
