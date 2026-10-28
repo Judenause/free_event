@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-10-28T08:03:59+09:00",
+  "updated_at": "2026-10-29T08:02:06+09:00",
   "events": [
-    {
-      "id": "soorim-gwiryu-20261105",
-      "title": "수림뉴웨이브 2026 – 이나연 ‘귀류 歸流’",
-      "genre": "국악",
-      "region": "서울",
-      "venue": "김희수아트센터 SPACE 1",
-      "starts_at": "2026-11-05T19:30:00+09:00",
-      "deadline": "2026-10-28T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 60000,
-      "discovered_at": "2026-10-12T00:00:00+09:00",
-      "checked_at": "2026-10-19T07:59:06+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=397464"
-        }
-      ],
-      "description": "10쌍 초대, 1인 2매(총 20석). 문화포털에서 기대평 작성 후 회차 선택·응모하기. 10/29 발표. 공연 75분, 만 7세 이상. 정상가 1인 30,000원."
-    },
     {
       "id": "changgeuk-writers-20261108",
       "title": "2026 창극 작가 프로젝트 시연회",
@@ -302,46 +282,6 @@
       "description": "10쌍 추첨, 1인 2매. 기대평 작성 후 회차 선택·응모. 11/13 발표. 초등학생 이상, 약 90분. 정상가 1인 20,000원."
     },
     {
-      "id": "old-thieves-20261105-1400",
-      "title": "늘근도둑이야기",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "아트포레스트 1관",
-      "starts_at": "2026-11-05T14:00:00+09:00",
-      "deadline": "2026-10-28T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 100000,
-      "discovered_at": "2026-10-19T07:59:06+09:00",
-      "checked_at": "2026-10-19T07:59:06+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=204025"
-        }
-      ],
-      "description": "이 회차 5쌍 추첨, 1인 2매. 기대평 작성 후 원하는 초대 회차 선택·응모. 10/29 발표. 12세 이상, 약 100분. 정상가 1인 50,000원."
-    },
-    {
-      "id": "old-thieves-20261105-1700",
-      "title": "늘근도둑이야기",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "아트포레스트 1관",
-      "starts_at": "2026-11-05T17:00:00+09:00",
-      "deadline": "2026-10-28T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 100000,
-      "discovered_at": "2026-10-19T07:59:06+09:00",
-      "checked_at": "2026-10-19T07:59:06+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=204025"
-        }
-      ],
-      "description": "이 회차 5쌍 추첨, 1인 2매. 기대평 작성 후 원하는 초대 회차 선택·응모. 10/29 발표. 12세 이상, 약 100분. 정상가 1인 50,000원."
-    },
-    {
       "id": "hidden-puzzle-20261113",
       "title": "히든퍼즐",
       "genre": "연극",
@@ -540,6 +480,86 @@
         }
       ],
       "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털에서 기대평 작성 후 원하는 초대 회차를 선택해 응모. 11/16 발표. 14세 이상, 85분. 정상가 1인 50,000원. 일반 공연시간과 다를 수 있으므로 초대 회차의 시간을 확인하세요."
+    },
+    {
+      "region": "서울",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-29T08:02:06+09:00",
+      "checked_at": "2026-10-29T08:02:06+09:00",
+      "id": "dajeong-national-20261217",
+      "title": "다정히 세상을 누리면",
+      "genre": "연극",
+      "venue": "국립극장 달오름극장",
+      "starts_at": "2026-12-17T19:30:00+09:00",
+      "deadline": "2026-11-30T23:59:59+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=402020"
+        }
+      ],
+      "description": "5쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 회차 선택·응모. 12/1 발표. 초등학생 이상, 100분. 초대 좌석 등급 미확인으로 2매 가치는 미표기."
+    },
+    {
+      "region": "서울",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-29T08:02:06+09:00",
+      "checked_at": "2026-10-29T08:02:06+09:00",
+      "id": "two-scenes-mapo-20261120",
+      "title": "투신 Two Scenes",
+      "genre": "연극",
+      "venue": "마포아트센터 아트홀맥",
+      "starts_at": "2026-11-20T19:30:00+09:00",
+      "deadline": "2026-11-11T23:59:59+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=402346"
+        }
+      ],
+      "description": "10쌍 추첨, 1인 2매. 문화포털 기대평 작성 후 회차 선택·응모. 11/12 발표. 12세 이상, 약 100분. 관람연령의 출생연도 표기는 원문 안내를 확인하세요."
+    },
+    {
+      "region": "서울",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-29T08:02:06+09:00",
+      "checked_at": "2026-10-29T08:02:06+09:00",
+      "id": "assassins-gv-wangsimni-20261105",
+      "title": "암살자(들) 두 번 보.까! GV",
+      "genre": "영화",
+      "venue": "CGV 왕십리",
+      "starts_at": "2026-11-05T19:30:00+09:00",
+      "deadline": "2026-11-02T23:59:59+09:00",
+      "sources": [
+        {
+          "name": "씽유",
+          "url": "https://thinkyou.co.kr/event/7477/"
+        }
+      ],
+      "description": "15명 추첨, 1인 2매. 예고편 감상 후 기대평 응모, 11/3 발표. 박시영 디자이너·김병한 미술감독 참석, 주성철 편집장 진행(변경 가능). 상영 후 약 1시간 GV. 휴대폰번호 인증 필수, 신분증 확인 후 현장 배부."
+    },
+    {
+      "region": "서울",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-29T08:02:06+09:00",
+      "checked_at": "2026-10-29T08:02:06+09:00",
+      "id": "nightshift-yongsan-20261111",
+      "title": "심야근무 시사회",
+      "genre": "영화",
+      "venue": "CGV 용산아이파크몰",
+      "starts_at": "2026-11-11T20:00:00+09:00",
+      "deadline": "2026-11-08T23:59:59+09:00",
+      "sources": [
+        {
+          "name": "씽유",
+          "url": "https://thinkyou.co.kr/mobile/event/7454/"
+        }
+      ],
+      "description": "10명 추첨, 1인 2매. 기대평 응모, 11/9 발표(원문의 요일 표기에 오류가 있어 날짜 기준). 15세 이상, 79분. 휴대폰번호 인증 필수. 당일 19~20시 티켓부스 본인 확인 후 수령. 관람 후 개인 SNS 리뷰 요청. 액막이 부적 굿즈 랜덤 증정."
     }
   ]
 }
