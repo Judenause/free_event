@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-10-29T08:02:06+09:00",
+  "updated_at": "2026-10-30T08:02:23+09:00",
   "events": [
-    {
-      "id": "changgeuk-writers-20261108",
-      "title": "2026 창극 작가 프로젝트 시연회",
-      "genre": "국악",
-      "region": "서울",
-      "venue": "국립극장 하늘극장",
-      "starts_at": "2026-11-08T15:00:00+09:00",
-      "deadline": "2026-10-29T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 40000,
-      "discovered_at": "2026-10-11T00:00:00+09:00",
-      "checked_at": "2026-10-13T13:43:45+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=401013"
-        }
-      ],
-      "description": "11/8(일) 15:00 회차 5쌍 초대, 1인 2매(총 10석). 문화포털에서 기대평 작성 후 회차 선택·응모하기. 10/30 발표. 공연 135분(휴식 15분 포함), 초등학생 이상. 정상가 1인 20,000원."
-    },
     {
       "id": "eojjeoda-shabondi-20261119",
       "title": "어쩌다 보니",
@@ -560,6 +540,46 @@
         }
       ],
       "description": "10명 추첨, 1인 2매. 기대평 응모, 11/9 발표(원문의 요일 표기에 오류가 있어 날짜 기준). 15세 이상, 79분. 휴대폰번호 인증 필수. 당일 19~20시 티켓부스 본인 확인 후 수령. 관람 후 개인 SNS 리뷰 요청. 액막이 부적 굿즈 랜덤 증정."
+    },
+    {
+      "id": "horumon-isu-20261106",
+      "title": "호루몽 시사회",
+      "genre": "영화",
+      "region": "서울",
+      "venue": "메가박스 이수",
+      "starts_at": "2026-11-06T19:30:00+09:00",
+      "deadline": "2026-11-03T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-30T08:02:23+09:00",
+      "checked_at": "2026-10-30T08:02:23+09:00",
+      "sources": [
+        {
+          "name": "씨네21",
+          "url": "https://cine21.com/event/view/?event_no=8731"
+        }
+      ],
+      "description": "10명 추첨, 1인 2매. 씨네21에서 응모. 11/4 12:00 발표. 상영 전 신숙옥 인권운동가·이일하 감독 무대인사 예정(변경·취소 가능). 이벤트 운영을 위한 개인정보 취급 위탁 안내를 확인하세요."
+    },
+    {
+      "id": "breathing-worldtower-20261105",
+      "title": "옆에서 숨만 쉬어도 좋아 시사회",
+      "genre": "영화",
+      "region": "서울",
+      "venue": "롯데시네마 월드타워",
+      "starts_at": "2026-11-05T19:30:00+09:00",
+      "deadline": "2026-11-02T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": null,
+      "discovered_at": "2026-10-30T08:02:23+09:00",
+      "checked_at": "2026-10-30T08:02:23+09:00",
+      "sources": [
+        {
+          "name": "씨네21",
+          "url": "https://cine21.com/event/view/?event_no=8730"
+        }
+      ],
+      "description": "25명 추첨, 1인 2매. 씨네21에서 응모. 11/3 12:00 발표.  이벤트 운영을 위한 개인정보 취급 위탁 안내를 확인하세요."
     }
   ]
 }
