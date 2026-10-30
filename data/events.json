@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T08:02:23+09:00",
+  "updated_at": "2026-10-31T08:01:34+09:00",
   "events": [
     {
       "id": "eojjeoda-shabondi-20261119",
@@ -580,6 +580,46 @@
         }
       ],
       "description": "25명 추첨, 1인 2매. 씨네21에서 응모. 11/3 12:00 발표.  이벤트 운영을 위한 개인정보 취급 위탁 안내를 확인하세요."
+    },
+    {
+      "id": "grandfather-artone-20261121",
+      "title": "나와 할아버지",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "예스24아트원 3관",
+      "starts_at": "2026-11-21T17:30:00+09:00",
+      "deadline": "2026-11-12T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 110000,
+      "discovered_at": "2026-10-31T08:01:34+09:00",
+      "checked_at": "2026-10-31T08:01:34+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=397033"
+        }
+      ],
+      "description": "이 회차 5쌍 추첨, 1인 2매. 기대평 작성 후 원하는 회차 선택·응모. 11/13 발표. 만 10세 이상, 100분. 정상가 1인 55,000원."
+    },
+    {
+      "id": "grandfather-artone-20261125",
+      "title": "나와 할아버지",
+      "genre": "연극",
+      "region": "서울",
+      "venue": "예스24아트원 3관",
+      "starts_at": "2026-11-25T20:00:00+09:00",
+      "deadline": "2026-11-12T23:59:59+09:00",
+      "tickets_per_person": 2,
+      "value_for_two": 110000,
+      "discovered_at": "2026-10-31T08:01:34+09:00",
+      "checked_at": "2026-10-31T08:01:34+09:00",
+      "sources": [
+        {
+          "name": "문화포털",
+          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=397033"
+        }
+      ],
+      "description": "이 회차 5쌍 추첨, 1인 2매. 기대평 작성 후 원하는 회차 선택·응모. 11/13 발표. 만 10세 이상, 100분. 정상가 1인 55,000원."
     }
   ]
 }
