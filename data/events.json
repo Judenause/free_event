@@ -82,146 +82,6 @@
       "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 만 13세 이상, 약 100분. 11/12 당첨 발표."
     },
     {
-      "id": "scar-hongdae-20261113",
-      "title": "흉터",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "홍대 씨어터 윤",
-      "starts_at": "2026-11-13T19:30:00+09:00",
-      "deadline": "2026-11-02T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 70000,
-      "discovered_at": "2026-10-18T20:56:57+09:00",
-      "checked_at": "2026-10-18T20:56:57+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=401660"
-        }
-      ],
-      "description": "이 회차 3쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 14세 이상, 약 90분. 11/3 당첨 발표."
-    },
-    {
-      "id": "scar-hongdae-20261114",
-      "title": "흉터",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "홍대 씨어터 윤",
-      "starts_at": "2026-11-14T17:00:00+09:00",
-      "deadline": "2026-11-02T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 70000,
-      "discovered_at": "2026-10-18T20:56:57+09:00",
-      "checked_at": "2026-10-18T20:56:57+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=401660"
-        }
-      ],
-      "description": "이 회차 3쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 14세 이상, 약 90분. 11/3 당첨 발표."
-    },
-    {
-      "id": "scar-hongdae-20261115",
-      "title": "흉터",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "홍대 씨어터 윤",
-      "starts_at": "2026-11-15T17:00:00+09:00",
-      "deadline": "2026-11-02T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 70000,
-      "discovered_at": "2026-10-18T20:56:57+09:00",
-      "checked_at": "2026-10-18T20:56:57+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=401660"
-        }
-      ],
-      "description": "이 회차 3쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 14세 이상, 약 90분. 11/3 당첨 발표."
-    },
-    {
-      "id": "obaek-jtn-20261110",
-      "title": "오백에 삼십",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "대학로 JTN아트홀 3관",
-      "starts_at": "2026-11-10T17:00:00+09:00",
-      "deadline": "2026-11-02T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 100000,
-      "discovered_at": "2026-10-18T20:56:57+09:00",
-      "checked_at": "2026-10-18T20:56:57+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=393376"
-        }
-      ],
-      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 14세 이상, 약 100분. 11/3 당첨 발표. 기존 씨네21 10월 회차와 다른 문화포털 11월 초대입니다."
-    },
-    {
-      "id": "obaek-jtn-20261111",
-      "title": "오백에 삼십",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "대학로 JTN아트홀 3관",
-      "starts_at": "2026-11-11T17:00:00+09:00",
-      "deadline": "2026-11-02T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 100000,
-      "discovered_at": "2026-10-18T20:56:57+09:00",
-      "checked_at": "2026-10-18T20:56:57+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=393376"
-        }
-      ],
-      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 14세 이상, 약 100분. 11/3 당첨 발표. 기존 씨네21 10월 회차와 다른 문화포털 11월 초대입니다."
-    },
-    {
-      "id": "obaek-jtn-20261117",
-      "title": "오백에 삼십",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "대학로 JTN아트홀 3관",
-      "starts_at": "2026-11-17T17:00:00+09:00",
-      "deadline": "2026-11-02T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 100000,
-      "discovered_at": "2026-10-18T20:56:57+09:00",
-      "checked_at": "2026-10-18T20:56:57+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=393376"
-        }
-      ],
-      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 14세 이상, 약 100분. 11/3 당첨 발표. 기존 씨네21 10월 회차와 다른 문화포털 11월 초대입니다."
-    },
-    {
-      "id": "obaek-jtn-20261118",
-      "title": "오백에 삼십",
-      "genre": "연극",
-      "region": "서울",
-      "venue": "대학로 JTN아트홀 3관",
-      "starts_at": "2026-11-18T17:00:00+09:00",
-      "deadline": "2026-11-02T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": 100000,
-      "discovered_at": "2026-10-18T20:56:57+09:00",
-      "checked_at": "2026-10-18T20:56:57+09:00",
-      "sources": [
-        {
-          "name": "문화포털",
-          "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=393376"
-        }
-      ],
-      "description": "이 회차 5쌍 추첨, 1인 2매. 문화포털에서 기대평을 작성하고 원하는 초대 회차를 선택해 응모하세요. 14세 이상, 약 100분. 11/3 당첨 발표. 기존 씨네21 10월 회차와 다른 문화포털 11월 초대입니다."
-    },
-    {
       "id": "lee-eunbin-viola-20261123",
       "title": "현악본색 시즌2 – 이은빈 비올라 리사이틀",
       "genre": "클래식",
@@ -362,26 +222,6 @@
       "description": "씨네21 별도 초대: 회차당 5명 추첨, 1인 2매. 11/5 12:00 발표. 응모 시 원하는 회차를 선택하세요. 기존 문화포털 11/19~22 회차와 날짜·응모 마감이 다릅니다. 공식 이벤트 이미지로 일정·장소·매수를 확인했습니다."
     },
     {
-      "id": "pressure-yongsan-20261105",
-      "title": "프레셔 시사회",
-      "genre": "영화",
-      "region": "서울",
-      "venue": "CGV 용산아이파크몰",
-      "starts_at": "2026-11-05T19:30:00+09:00",
-      "deadline": "2026-11-02T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": null,
-      "discovered_at": "2026-10-22T08:02:46+09:00",
-      "checked_at": "2026-10-23T08:00:57+09:00",
-      "sources": [
-        {
-          "name": "씨네21",
-          "url": "https://cine21.com/event/view/?event_no=8727"
-        }
-      ],
-      "description": "25명 추첨, 1인 2매(총 50석). 씨네21 이벤트 페이지에서 응모. 11/3 12:00 발표. 이벤트 운영을 위한 개인정보 취급 위탁 안내를 확인하세요. 공식 안내 이미지로 초대 매수·시사회 일정·장소를 확인했습니다."
-    },
-    {
       "id": "place-cecil-20261117",
       "title": "2026 창작ing 연극 <장소>",
       "genre": "연극",
@@ -507,26 +347,6 @@
       "value_for_two": null,
       "discovered_at": "2026-10-29T08:02:06+09:00",
       "checked_at": "2026-10-29T08:02:06+09:00",
-      "id": "assassins-gv-wangsimni-20261105",
-      "title": "암살자(들) 두 번 보.까! GV",
-      "genre": "영화",
-      "venue": "CGV 왕십리",
-      "starts_at": "2026-11-05T19:30:00+09:00",
-      "deadline": "2026-11-02T23:59:59+09:00",
-      "sources": [
-        {
-          "name": "씽유",
-          "url": "https://thinkyou.co.kr/event/7477/"
-        }
-      ],
-      "description": "15명 추첨, 1인 2매. 예고편 감상 후 기대평 응모, 11/3 발표. 박시영 디자이너·김병한 미술감독 참석, 주성철 편집장 진행(변경 가능). 상영 후 약 1시간 GV. 휴대폰번호 인증 필수, 신분증 확인 후 현장 배부."
-    },
-    {
-      "region": "서울",
-      "tickets_per_person": 2,
-      "value_for_two": null,
-      "discovered_at": "2026-10-29T08:02:06+09:00",
-      "checked_at": "2026-10-29T08:02:06+09:00",
       "id": "nightshift-yongsan-20261111",
       "title": "심야근무 시사회",
       "genre": "영화",
@@ -560,26 +380,6 @@
         }
       ],
       "description": "10명 추첨, 1인 2매. 씨네21에서 응모. 11/4 12:00 발표. 상영 전 신숙옥 인권운동가·이일하 감독 무대인사 예정(변경·취소 가능). 이벤트 운영을 위한 개인정보 취급 위탁 안내를 확인하세요."
-    },
-    {
-      "id": "breathing-worldtower-20261105",
-      "title": "옆에서 숨만 쉬어도 좋아 시사회",
-      "genre": "영화",
-      "region": "서울",
-      "venue": "롯데시네마 월드타워",
-      "starts_at": "2026-11-05T19:30:00+09:00",
-      "deadline": "2026-11-02T23:59:59+09:00",
-      "tickets_per_person": 2,
-      "value_for_two": null,
-      "discovered_at": "2026-10-30T08:02:23+09:00",
-      "checked_at": "2026-11-01T08:00:33+09:00",
-      "sources": [
-        {
-          "name": "씨네21",
-          "url": "https://cine21.com/event/view/?event_no=8730"
-        }
-      ],
-      "description": "25명 추첨, 1인 2매. 씨네21에서 응모. 11/3 12:00 발표.  이벤트 운영을 위한 개인정보 취급 위탁 안내를 확인하세요."
     },
     {
       "id": "grandfather-artone-20261121",
